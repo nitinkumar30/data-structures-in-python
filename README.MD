@@ -1,4 +1,4 @@
-# LIST-DICTIONARY-TUPLE IN PYTHON :violet_heart:
+# LIST-DICTIONARY-TUPLE IN PYTHON :purple_heart:
 
 > Lists are data types used to collect mutable objects
 > Dictionaries are data types to collect mutabel objects
