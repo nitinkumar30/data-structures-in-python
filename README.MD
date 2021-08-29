@@ -4,7 +4,7 @@
 > Dictionaries are data types to collect mutabel objects
 > Tuples are data types to collect immutable objects
 
-![Python](https://img.shields.io/badge/Language-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Language-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp;&nbsp;
 ![PyCharm](https://img.shields.io/badge/IDE-pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ### Here , we'll see functions used under these data types and some examples to have a clear understanding of these :
@@ -42,5 +42,7 @@
 > All above functions are pre-defined functions and are widely used
 
 > All the codes are tested in Python 3.7 
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 ## Leave a "STAR" if you like it !
