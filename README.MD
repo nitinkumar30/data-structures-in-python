@@ -10,6 +10,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![PyCharm](https://img.shields.io/badge/IDE-pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 </div>
+
 ### Here , we'll see functions used under these data types and some examples to have a clear understanding of these :
 
 1. Lists
