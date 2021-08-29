@@ -4,6 +4,8 @@
 > Dictionaries are data types to collect mutabel objects
 > Tuples are data types to collect immutable objects
 
+![Python](https://img.shields.io/badge/Language-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ### Here , we'll see functions used under these data types and some examples to have a clear understanding of these :
 
 1. Lists
