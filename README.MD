@@ -19,6 +19,7 @@
    * any()
    * enumerate()
    * clear()
+   
 2. Dictionary
    * get()
    * items()
@@ -29,9 +30,11 @@
    * update()
    * values()
    * clear()
+   
 3. Tuple
    * count()
    * index()
+   
 
 > All above functions are pre-defined functions and are widely used
 
