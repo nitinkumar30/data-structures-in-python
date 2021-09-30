@@ -47,6 +47,6 @@
 
 > All the codes are tested in Python 3.7 
 
-<a href="buymeacoffee.com/nitinkumar">![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
+<a href="https://buymeacoffee.com/nitinkumar">![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
 
 ## Leave a "STAR" if you like it !
