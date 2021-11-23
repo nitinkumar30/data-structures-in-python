@@ -1,6 +1,6 @@
 # Data Structure in Python :purple_heart:
 
-**Data Structure used in Python:  
+**Data Structure used in Python:**  
 > Lists are data types used to collect mutable objects  
 > Dictionaries are data types to collect mutabel objects  
 > Tuples are data types to collect immutable objects  
