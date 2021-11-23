@@ -1,4 +1,4 @@
-# Data Structure IN PYTHON :purple_heart:
+# Data Structure in Python :purple_heart:
 
 **Data Structure used in Python:
 > Lists are data types used to collect mutable objects
