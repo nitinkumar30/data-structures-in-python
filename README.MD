@@ -2,7 +2,7 @@
 
 **Data Structure used in Python:**  
 > Lists are data types used to collect mutable objects  
-> Dictionaries are data types to collect mutabel objects  
+> Dictionaries are data types to collect mutable objects  
 > Tuples are data types to collect immutable objects  
 
 <div align="center">
